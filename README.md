@@ -2,7 +2,8 @@
 
 
 
-1. Fundamentos de TI e Redes (A Base)Antes de proteger qualquer coisa, você precisa entender como os dados trafegam.
+ 
+ 1. Fundamentos de TI e Redes (A Base)Antes de proteger qualquer coisa, você precisa entender como os dados trafegam.
    
   -   Redes: Modelo OSI/TCP/IP, endereçamento IP, sub-redes, e portas.
    
