@@ -186,7 +186,42 @@ Somente IPs externos podem ser adicionados à lista de indicadores. Não é poss
 Pode haver até 2 horas de latência (geralmente menos) entre a hora em que a ação é executada e a URL e o IP sendo bloqueados.
 
 
+# Criar um indicador para IPs, URLs ou domínios
 
+
+1- No painel de navegação, selecione Configurações > Ponto Final >Indicadores.
+
+<img width="411" height="782" alt="image" src="https://github.com/user-attachments/assets/c0eb03b2-3842-4c1b-8141-630b9e92a943" />
+
+
+2- Selecione a guia de endereços IP ou URLs/Domínios.
+
+<img width="917" height="307" alt="image" src="https://github.com/user-attachments/assets/f944db97-b1eb-405c-8c70-a045867129e4" />
+
+
+3- Selecione Adicionar item.
+
+<img width="909" height="379" alt="image" src="https://github.com/user-attachments/assets/9d27f7fd-4234-4a44-b932-31a5d7e7990e" />
+
+
+4- Especifique os seguintes detalhes:
+
+- Indicador – Especifique os detalhes da entidade e defina a expiração do indicador.
+
+- Ação – Especifique a ação a ser executada e forneça uma descrição.
+
+- Escopo – Defina o escopo do grupo de computadores.
+
+<img width="1472" height="861" alt="image" src="https://github.com/user-attachments/assets/02ef8a1d-95d1-44c5-abe3-658947abe03f" />
+
+<img width="1391" height="851" alt="image" src="https://github.com/user-attachments/assets/48632b76-7352-4cdc-a3ae-526603d9efd1" />
+
+<img width="1397" height="851" alt="image" src="https://github.com/user-attachments/assets/4c113e45-4533-4fa4-9b34-e05a7d7c8534" />
+
+
+5- Examine os detalhes na guia Resumo e, em seguida, selecione Salvar.
+
+<img width="1418" height="846" alt="image" src="https://github.com/user-attachments/assets/9340cbb3-dc68-40f6-afb4-ff795d612eaa" />
 
 
 
