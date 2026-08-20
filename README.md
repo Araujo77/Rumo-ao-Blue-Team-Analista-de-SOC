@@ -224,6 +224,29 @@ Pode haver até 2 horas de latência (geralmente menos) entre a hora em que a a�
 <img width="1418" height="846" alt="image" src="https://github.com/user-attachments/assets/9340cbb3-dc68-40f6-afb4-ff795d612eaa" />
 
 
+#Importar uma lista de IoCs
+
+Você também pode optar por carregar um arquivo CSV que define os atributos dos indicadores, a ação a ser executada e outros detalhes.
+
+Baixe o CSV de exemplo para saber os atributos de coluna com suporte.
+
+1- No portal do Microsoft Defender, selecione Configurações > Pontos de extremidade > Indicadores.
+
+2- Selecione a guia do tipo de entidade para a qual você gostaria de importar os indicadores.
+
+3- Selecione importar > Escolher arquivo.
+
+
+<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/fa9f7e2f-4292-4d5a-8ee1-ede3963d5e86" />
+
+
+4- Selecione Importar. Faça isso para todos os arquivos que você gostaria de importar.
+
+
+<img width="336" height="847" alt="image" src="https://github.com/user-attachments/assets/a2116ed1-06dc-4939-87fe-2a3fa5dab6f4" />
+
+
+5- Selecione Concluído.
 
 
 
