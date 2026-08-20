@@ -1,1 +1,16 @@
+# Criar regras para notificações de alerta
 
+
+Você pode criar regras que determinam os dispositivos e as severidades de alerta para enviar notificações por email a destinatários de notificação.
+
+
+- No portal do Microsoft Defender, selecione Configurações, Pontos de extremidade e Notificações por email.
+
+  <img width="796" height="47" alt="image" src="https://github.com/user-attachments/assets/40a24ad4-d053-47f5-b6ac-f6bd0a758c5e" />
+  
+<img width="388" height="796" alt="image" src="https://github.com/user-attachments/assets/83a022e9-4fe0-4e38-9c1c-ea0404ab3f44" />
+
+
+- Selecione Adicionar item.
+
+  <img width="901" height="266" alt="image" src="https://github.com/user-attachments/assets/f4b94831-2bb0-4764-ae39-335cc1b83927" />
