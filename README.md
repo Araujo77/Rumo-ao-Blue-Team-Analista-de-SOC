@@ -43,3 +43,60 @@
    -   Explore trilhas de introdução à defesa como o curso gratuito Blue Team Junior Analyst (BTJA) da Security Blue Team.
       
    -   No Brasil, acompanhe iniciativas públicas de capacitação como o programa Hackers do Bem para trilhas estruturadas em cibersegurança.
+
+
+
+
+# Criar regras para notificações de alerta
+
+
+Você pode criar regras que determinam os dispositivos e as severidades de alerta para enviar notificações por email a destinatários de notificação.
+
+
+- No portal do Microsoft Defender, selecione Configurações, Pontos de extremidade e Notificações por email.
+
+- Selecione Adicionar item.
+
+- Especifique as informações gerais:
+
+- Nome da regra – Especifique um nome para a regra de notificação.
+
+- Incluir nome da organização – Especifique o nome do cliente que aparece na notificação por email.
+
+- Incluir link do portal específico ao locatário – Adiciona um link com a ID do locatário para permitir o acesso a um locatário específico.
+
+- Incluir informações do dispositivo – Inclui o nome do dispositivo no corpo do alerta de email.
+
+- Dispositivos – Escolha se deseja notificar os destinatários para alertas em todos os dispositivos (somente função de administrador da empresa) ou grupos de dispositivos selecionados. Para obter mais informações, veja Criar e gerenciar grupos de dispositivo.
+
+- Severidade do alerta – Escolha o nível de severidade do alerta.
+
+- Selecione Avançar.
+
+- Digite um endereço de email e, em seguida, selecione Adicionar destinatário. Você pode adicionar vários endereços de email.
+
+- Verifique se os destinatários de email podem receber as notificações por email selecionando Enviar email de teste.
+
+- Selecione Salvar regra de notificação. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
