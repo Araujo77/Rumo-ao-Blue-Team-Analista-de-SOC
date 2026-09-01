@@ -1,7 +1,5 @@
 # Analista de SOC (Security Operations Center)
 
-
-
  
  1. Fundamentos de TI e Redes (A Base)Antes de proteger qualquer coisa, você precisa entender como os dados trafegam.
    
@@ -249,8 +247,7 @@ Baixe o CSV de exemplo para saber os atributos de coluna com suporte.
 5- Selecione Concluído.
 
 
-
-
+Testando...
 
 
 
