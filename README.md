@@ -247,7 +247,7 @@ Baixe o CSV de exemplo para saber os atributos de coluna com suporte.
 5- Selecione Concluído.
 
 
-Aprendendo...
+Testando...
 
 
 
